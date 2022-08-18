@@ -1,0 +1,18 @@
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\Rafael Ferreira\source\repos\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.dll
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.pdb
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+F:\SISTEMA_CONTROL_AUTOBUSES\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
