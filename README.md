@@ -23,5 +23,5 @@ Nuestro sistema de control de autobuses permite registrar, borrar, editar, entre
 Para dar como resultado la consulta de un viaje asignada a un pasajero con un autobus y una ruta especifica, todo esto y más está detallado en el video de explicación.
 
 La evaluacion heuristica y el video explicativo se encuentra en el siguiente link:
-
+https://drive.google.com/drive/folders/1G5YmwqqcKMpOVYrlg76RS_sovUu3nGtn
 
