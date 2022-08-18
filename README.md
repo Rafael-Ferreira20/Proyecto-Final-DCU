@@ -22,3 +22,6 @@ Le hace una evaluacion  heurística anexa al proyecto.
 Nuestro sistema de control de autobuses permite registrar, borrar, editar, entre otras funcionalidades informaciones sobre viajes, choferes, rutas entre otras cosas.
 Para dar como resultado la consulta de un viaje asignada a un pasajero con un autobus y una ruta especifica, todo esto y más está detallado en el video de explicación.
 
+La evaluacion heuristica y el video explicativo se encuentra en el siguiente link:
+
+
